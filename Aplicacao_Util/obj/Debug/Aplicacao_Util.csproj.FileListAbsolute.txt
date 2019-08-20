@@ -1,0 +1,10 @@
+C:\Users\Bruno\source\repos\Aplicacao_Util\Aplicacao_Util\bin\Debug\Aplicacao_Util.exe.config
+C:\Users\Bruno\source\repos\Aplicacao_Util\Aplicacao_Util\bin\Debug\Aplicacao_Util.exe
+C:\Users\Bruno\source\repos\Aplicacao_Util\Aplicacao_Util\bin\Debug\Aplicacao_Util.pdb
+C:\Users\Bruno\source\repos\Aplicacao_Util\Aplicacao_Util\obj\Debug\Aplicacao_Util.csprojAssemblyReference.cache
+C:\Users\Bruno\source\repos\Aplicacao_Util\Aplicacao_Util\obj\Debug\Aplicacao_Util.FrmPrincipal.resources
+C:\Users\Bruno\source\repos\Aplicacao_Util\Aplicacao_Util\obj\Debug\Aplicacao_Util.Properties.Resources.resources
+C:\Users\Bruno\source\repos\Aplicacao_Util\Aplicacao_Util\obj\Debug\Aplicacao_Util.csproj.GenerateResource.cache
+C:\Users\Bruno\source\repos\Aplicacao_Util\Aplicacao_Util\obj\Debug\Aplicacao_Util.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\Aplicacao_Util\Aplicacao_Util\obj\Debug\Aplicacao_Util.exe
+C:\Users\Bruno\source\repos\Aplicacao_Util\Aplicacao_Util\obj\Debug\Aplicacao_Util.pdb
